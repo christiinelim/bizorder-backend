@@ -3,6 +3,9 @@
 ## Project Introduction
 This project aims to solve the pain points of small business owners by providing a system to keep track of customer orders. The Spring Boot backend integrates with the frontend and Telegram bot to provide a comprehensive solution for small business owners.
 
+- GitHub Repository for Frontend (Angular): <a href="https://github.com/christiinelim/business-management-system">Link</a>
+- GitHub Repository for Telegram Bot (NodeJS): <a href="https://github.com/christiinelim/bizorder-telegram">Link</a>
+
 ## Backend API Reference
 
 ### Endpoints
