@@ -1,4 +1,4 @@
-# Business Management System - Spring Boot Backend
+# BizOrder Management System - Spring Boot Backend
 
 ## Project Introduction
 This project aims to solve the pain points of small business owners by providing a system to keep track of customer orders. The Spring Boot backend integrates with the frontend and Telegram bot to provide a comprehensive solution for small business owners.
